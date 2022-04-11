@@ -2,4 +2,4 @@
 hello_string="Bonjour, monde !"
 hello_string_voix_sexy="Et avec une voix sexy, ça donne : Bonjour, monde !"
 puts hello_string
-# puts hello_string_voix_sexy
+# puts hello_string_voix_sexy *
